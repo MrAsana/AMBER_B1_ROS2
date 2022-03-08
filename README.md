@@ -6,7 +6,7 @@ See https://raw.githubusercontent.com/AmberInside/Amber_AI_ROS2/main/Docs/initia
 
 ## AMBER B1 hardware quickstart
 
-Coming soon...
+See https://github.com/MrAsana/AMBER_B1_ROS2/wiki/AMBER-B1-hardware--quickstart
 
 ## AMBER Robotic Studio, easy to control and program B1 anywhere
 
