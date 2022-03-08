@@ -1,6 +1,6 @@
 AMBER B1 is an easy-to-use，modular & lightweight robotics arm for developing commercial robotic applications, prototyping designs, and benchmarking algorithms.
 
-![AMBER B1](https://github.com/AmberInside/Amber_AI_ROS2/raw/main/Docs/B1-1024.jpg)
+![AMBER B1](https://github.com/MrAsana/AMBER_B1_ROS2/blob/main/docs/imgs/AMBER-LOGO.jpg)
 
 # Important: AMBER B1 Zero Position (Or Initial Position)
 
