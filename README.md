@@ -10,7 +10,7 @@ Coming soon...
 
 ## AMBER Robotic Studio, easy to control and program B1 anywhere
 
-See https://github.com/AmberInside/Amber_AI_ROS2/wiki/Launch-AMBER-Robotics-Studio,-the-web-based-tool-for-AMBER-B1
+Coming soon...
 
 ## Help & WIKI about AMBER B1
-Go https://github.com/AmberInside/Amber_AI_ROS2/wiki
+Go https://github.com/MrAsana/AMBER_B1_ROS2/wiki
