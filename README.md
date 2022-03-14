@@ -16,5 +16,5 @@ See https://github.com/MrAsana/AMBER_B1_ROS2/wiki/AMBER-B1-hardware--quickstart
 
 Go https://github.com/MrAsana/AMBER_B1_ROS2/wiki/AMBER-Robot-Studio-software-quickstart
 
-## Help & WIKI about AMBER B1
+## API & WIKI for AMBER B1
 Go https://github.com/MrAsana/AMBER_B1_ROS2/wiki
