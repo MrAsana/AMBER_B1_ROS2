@@ -18,7 +18,7 @@ Go https://github.com/MrAsana/AMBER_B1_ROS2/wiki/AMBER-Robot-Studio-software-qui
 
 ## Protocol for AMBER B1 SDK & APIs
 
-Go to check [AMBER B1 SDK & API ----- UDP Protocol](https://github.com/MrAsana/AMBER_B1_ROS2/wiki/SDK-&-API---UDP-Ethernet-Protocol--for-controlling-&-programing--Updated-in-Apr.11-2022)
+Go to check [AMBER B1 SDK & API ----- UDP Protocol](https://github.com/MrAsana/AMBER_B1_ROS2/wiki/SDK-&-API---UDP-Ethernet-Protocol--for-controlling-&-programing)
 
 ## API & WIKI for AMBER B1
 Go https://github.com/MrAsana/AMBER_B1_ROS2/wiki
