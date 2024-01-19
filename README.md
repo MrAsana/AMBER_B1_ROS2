@@ -1,8 +1,10 @@
 AMBER B1 is an easy-to-use，modular & lightweight robotics arm for developing commercial robotic applications, prototyping designs, and benchmarking algorithms.
 
-# Important: Once you want to power off B1, PUT B1 BACK to Zero Position or a Safe Posture!!
+## This is for AMBER Robotic Arm B1 V1.1/1.2 ONLY
+## Important: Once you want to power off B1, PUT B1 BACK to Zero Position or a Safe Posture!!
 
-![AMBER B1](https://github.com/MrAsana/AMBER_B1_ROS2/blob/main/docs/imgs/AMBER-LOGO.jpg)
+<!--![AMBER B1](https://github.com/MrAsana/AMBER_B1_ROS2/blob/main/docs/imgs/AMBER-LOGO.jpg)-->
+<img src="https://github.com/MrAsana/AMBER_B1_ROS2/blob/main/docs/imgs/AMBER-LOGO.jpg" alt="drawing" width="400"/>
 
 # Important: Keep AMBER B1 on Zero Position before you power it on.
 
