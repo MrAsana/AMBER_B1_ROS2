@@ -18,9 +18,9 @@ Go https://github.com/MrAsana/AMBER_B1_ROS2/wiki/AMBER-Robot-Studio-software-qui
 
 ## Protocol for AMBER B1 SDK & APIs
 
-Go to check [AMBER B1 SDK & API ----- UDP Protocol](https://github.com/MrAsana/AMBER_B1_ROS2/wiki/SDK-&-API---UDP-Ethernet-Protocol--for-controlling-&-programing)
+Go to check [AMBER B1 SDK & API ----- UDP Protocol](https://github.com/MrAsana/UDP-Protocol-API)
 
-## API & WIKI for AMBER B1
+## WIKI for AMBER B1 V0.1/0.2
 Go https://github.com/MrAsana/AMBER_B1_ROS2/wiki
 
 ## Restore or make a backup of the Master system
